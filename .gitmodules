@@ -1,0 +1,33 @@
+[submodule "bundle/easybuffer.vim"]
+	path = bundle/easybuffer.vim
+	url = https://github.com/vim-scripts/easybuffer.vim.git
+[submodule "bundle/EnhancedCommentify"]
+	path = bundle/EnhancedCommentify
+	url = https://github.com/hanshuai/EnhancedCommentify.git
+[submodule "bundle/matchit.zip"]
+	path = bundle/matchit.zip
+	url = https://github.com/vim-scripts/matchit.zip.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = https://github.com/hanshuai/vimwiki.git
+[submodule "bundle/winmanager--Fox"]
+	path = bundle/winmanager--Fox
+	url = https://github.com/vim-scripts/winmanager--Fox.git
+[submodule "bundle/winmove.vim"]
+	path = bundle/winmove.vim
+	url = https://github.com/tyru/winmove.vim.git

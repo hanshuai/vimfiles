@@ -1,0 +1,36 @@
+#target
+snippet target
+	<target name="${1:update}">
+		${2}
+	</target>
+#copy
+snippet copy
+	<copy todir="${1}" file="${2}"/>
+snippet copyf
+	<copy todir="${1}">
+		${2:fileset}${3}
+	</copy>
+#fileset
+snippet fileset
+	<fileset dir="${1}">
+		${2:include}${3}
+	</fileset>
+snippet include
+	<include name="${1}"/>
+snippet prop
+	<property name="${1}" value="${2}"/>
+snippet propf file
+	<property file="${1}"/>
+snippet project
+	<project>
+		${1}
+	</project>
+snippet xml
+	<?xml version="1.0"?>
+snippet mac
+	<macrodef name="${1:exesql}">
+		<attribute name="${2:file}" />
+		<sequential>
+			${3}
+		</sequential>
+	</macrodef>
